@@ -6,11 +6,19 @@ This project simulates a LAN of a new branch of an organization, which I had to 
 Here are the main configurations I implemented:
  
 *Subnetting and designing an IP scheme
+
 *Setting and configuring VLANs and trunks
+
 *Assigning IP addresses based on the IP scheme I made
+
 *Configuring Inter-VLAN routing
+
 *Securing switches physical ports
+
 *Configuring OSPF
+
 *Configuring initial and security settings for network devices
+
 *Configuring secure remote access
+
 *Configuring Extended ACL
